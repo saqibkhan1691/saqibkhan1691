@@ -16,7 +16,7 @@
 
 - 💬 Ask me about Python, Feature Engineering, SQL, Java, ML fundamentals 
 
-- 📫 How to reach me *saqibkhan4428960@gmail.com*
+- 📫 How to reach me *saqib.2428cs1691@kiet.edu*
 
 - ⚡ Follow me to do nothing with me :)
 
