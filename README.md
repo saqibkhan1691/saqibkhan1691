@@ -1,35 +1,156 @@
+<!-- HERO BANNER -->
+
+<!-- RIGHT SIDE IMAGE -->
+
+<img align="left" src="https://giffiles.alphacoders.com/139/13940.gif" width="420"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&lines=I+am+SAQIB+KHAN;Machine+Learning+Learner;Future+Data+Scientist;Java+Developer"/>
+🎓 B.Tech Computer Science Student  
+</br>
+🤖 Aspiring Data Scientist  
+</br>
+💻 Python • Machine Learning • Data Science 
+</br>
+📚 Practicing DSA in Java  
+
+<br clear="left"/>
+
+
+
 <p align="center">
-  <img src="https://github.com/SHAKI-cell/SHAKI-cell/blob/main/866d6bec5cf1a4d9655626182659df11.png?raw=true" width="400" alt="logo"/>
+
 </p>
 
-<h1 align="center">Hi 👋, I'm SAQIB KHAN</h1>
-<h3 align="center">I'm am currently pursuing B.tech in Computer Science</h3>
+---
 
-<img align="right" alt="coading" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaki-cell&label=Profile%20views&color=0e75b6&style=flat" alt="shaki-cell" /> </p>
+# 🧑‍💻 About Me
 
-- 🔭 I’m currently working on [LEETCODE](https://leetcode.com/u/saqibkhan1691/)
+<table>
+<tr>
+<td width="60%">
 
-- 🌱 I’m currently learning Machine Learning | DSA in Java | Computer Vision | Data Science
+- 🔭 Currently working on **Machine Learning Projects**
+- 🌱 Learning **Deep Learning, NLP & Computer Vision**
+- 🧠 Exploring **Artificial Intelligence**
+- 💡 Interested in solving real world problems with data
+- 📚 Practicing **DSA in Java**
 
-- 👨‍💻 All of my projects are available at [LINKEDIN](https://www.linkedin.com/in/saqib-khan-a462a6323/)
+</td>
 
-- 💬 Ask me about Python, Feature Engineering, SQL, Java, ML fundamentals 
+<td width="40%">
 
-- 📫 How to reach me *saqib.2428cs1691@kiet.edu*
+<img src="https://giffiles.alphacoders.com/220/220069.gif" width="100%">
 
-- ⚡ Follow me to do nothing with me :)
+</td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/saqib-khan-a462a6323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saqib-khan-a462a6323" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__skgamingyt__?igsh=ZXNuMjcxeGZyYmhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__skgaming__" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/saqibkhan1691/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saqibkhan1691/" height="30" width="40" /></a>
+---
+
+# 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibkhan1691&show_icons=true&locale=en&layout=compact" alt="saqibkhan1691" /></p>
+# 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqibkhan1691&show_icons=true&locale=en" alt="saqibkhan1691" /></p>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+---
+
+# 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+---
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+
+---
+
+# 📌 Featured Projects
+
+### ❤️ Heart Disease Prediction
+Machine learning model predicting heart disease risk.
+
+### 🎬 Movie Recommendation System
+Content based recommendation system using cosine similarity.
+
+### 🧠 NLP Sentiment Analysis
+Text classification using NLP techniques.
+
+### 🏠 House Price Prediction
+Regression model predicting house prices.
+
+---
+
+# 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/saqibkhan1691/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/saqibkhan1691/">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
+<a href="https://www.instagram.com/__skgamingyt__?igsh=ZXNuMjcxeGZyYmhj">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+---
+
+# 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue"/>
+
+---
+
+⭐ From **Saqib Khan**
