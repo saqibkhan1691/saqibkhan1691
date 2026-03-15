@@ -158,11 +158,11 @@ Oct 2025 - Nov 2025
 # 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/saqibkhan1691/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin-right:35px"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" &nbps/>
 </a>
 
 <a href="https://leetcode.com/u/saqibkhan1691/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" style="margin-right:35px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" &nbps/>
 </a>
 
 <a href="https://www.instagram.com/__skgamingyt__?igsh=ZXNuMjcxeGZyYmhj">
