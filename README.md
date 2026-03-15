@@ -32,7 +32,7 @@
 <td width="60%">
 
 - 🔭 Currently working on **Machine Learning Projects**
-- 🌱 Learning **Machine Learning, NLP, **
+- 🌱 Learning **Machine Learning, GenAI(NLP)**
 - 🧠 Exploring **Artificial Intelligence**
 - 💡 Interested in solving real world problems with data
 - 📚 Practicing **DSA in Java**
