@@ -110,7 +110,7 @@
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/saqibkhan1691/saqibkhan1691/output/github-contribution-grid-snake.svg"/>
+![snake](https://raw.githubusercontent.com/saqibkhan1691/saqibkhan1691/output/github-contribution-grid-snake.svg)
 
 ---
 
