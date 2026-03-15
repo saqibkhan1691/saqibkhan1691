@@ -2,7 +2,7 @@
 
 <!-- RIGHT SIDE IMAGE -->
 
-<img align="left" src="https://giffiles.alphacoders.com/139/13940.gif" width="370" />
+<img align="left" src="Charizard.gif" width="370" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&lines=Hi👋+I'm+Saqib+Khan;Future+Data+Scientist;Machine+Learning;Data+Analytics;Python+Developer" hspace=15 />
 <br>
