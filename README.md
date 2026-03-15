@@ -7,19 +7,19 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&lines=Hi👋+I'm+Saqib+Khan;Future+Data+Scientist;Machine+Learning;Data+Analytics;Python+Developer" hspace=20 />
 <br><br>
 
-&nbsp;&nbps; 🎓 B.Tech Computer Science Student 
+<p>&nbsp;&nbps; 🎓 B.Tech Computer Science Student</p> 
 
 <br><br>
 
-&nbsp;&nbps; 🤖 Aspiring Data Scientist  
+<p>&nbsp;&nbps; 🤖 Aspiring Data Scientist</p>
 
 <br><br>
 
-&nbps;&nbps; 💻 Python • Machine Learning • Data Science 
+<p>&nbsp;&nbps; 💻 Python • Machine Learning • Data Science</p>
 
 <br><br>
 
-&nbps;&nbps; 📚 Practicing DSA in Java
+<p>&nbsp;&nbps; 📚 Practicing DSA in Java</p>
 
 <br clear="left"/>
 
