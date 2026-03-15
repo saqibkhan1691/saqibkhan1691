@@ -9,15 +9,15 @@
 
 <p>&nbsp; 🎓 B.Tech Computer Science Student</p> 
 
-<br><br>
+<br>
 
 <p>&nbsp; 🤖 Aspiring Data Scientist</p>
 
-<br><br>
+<br>
 
 <p>&nbsp; 💻 Python • Machine Learning • Data Science</p>
 
-<br><br>
+<br>
 
 <p>&nbsp; 📚 Practicing DSA in Java</p>
 
