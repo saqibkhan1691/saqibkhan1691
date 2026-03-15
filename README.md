@@ -102,12 +102,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=saqibkhan1691&theme=algolia&column=7)
-
----
-
 # 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/saqibkhan1691/saqibkhan1691/output/github-contribution-grid-snake.svg)
