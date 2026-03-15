@@ -4,19 +4,22 @@
 
 <img align="left" src="https://giffiles.alphacoders.com/139/13940.gif" width="370" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&lines=Hi👋+I'm+Saqib+Khan;Future+Data+Scientist;Machine+Learning;Data+Analytics;Python+Developer" hspace=10 />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&lines=Hi👋+I'm+Saqib+Khan;Future+Data+Scientist;Machine+Learning;Data+Analytics;Python+Developer" hspace=20 />
 <br><br>
 
-&nbsp; 🎓 B.Tech Computer Science Student 
+&nbsp;&nbps; 🎓 B.Tech Computer Science Student 
 
 <br><br>
-&nbsp; 🤖 Aspiring Data Scientist  
+
+&nbsp;&nbps; 🤖 Aspiring Data Scientist  
 
 <br><br>
-&nbps; 💻 Python • Machine Learning • Data Science 
+
+&nbps;&nbps; 💻 Python • Machine Learning • Data Science 
 
 <br><br>
-&nbps; 📚 Practicing DSA in Java
+
+&nbps;&nbps; 📚 Practicing DSA in Java
 
 <br clear="left"/>
 
