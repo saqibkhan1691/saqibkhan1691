@@ -172,8 +172,8 @@ Oct 2025 - Nov 2025
 
 # 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=saqibkhan1691&color=blue"/>
 
 ---
 
-⭐ ⭐ Designed & Developed by **Saqib Khan**
+⭐ Designed & Developed by **Saqib Khan**
