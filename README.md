@@ -75,7 +75,7 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saqibkhan1691&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saqibkhan1691&show_icons=true&theme=tokyonight&v=2"/>
 
 </td>
 
@@ -92,7 +92,7 @@
 
 # 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saqibkhan1691&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saqibkhan1691&theme=tokyonight&v=1"/>
 
 ---
 
