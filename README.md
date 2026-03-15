@@ -75,13 +75,13 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saqibkhan1691&show_icons=true&theme=tokyonight&v=2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saqibkhan1691&show_icons=true&theme=tokyonight&cache_seconds=1"/>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibkhan1691&layout=compact&theme=tokyonight" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibkhan1691&layout=compact&theme=tokyonight&v=1" width="100%" >
 
 </td>
 
@@ -98,7 +98,7 @@
 
 # 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqibkhan1691&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqibkhan1691&theme=tokyo-night&cache_seconds=1&area=true&v=2"/>
 
 ---
 
