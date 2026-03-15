@@ -124,24 +124,24 @@ Feb 2026 - March 2026
 </br>
 🔗 Live Demo: https://heart-disease-risk-analysis-zn19.onrender.com
 
-• Built an end-to-end ML web app to predict heart disease risk using lifestyle and health dataset features.
+- Built an end-to-end ML web app to predict heart disease risk using lifestyle and health dataset features.
 </br>
-• Trained and evaluated Logistic Regression, Random Forest, and XGBoost models using ROC-AUC and F1 score.
+- Trained and evaluated Logistic Regression, Random Forest, and XGBoost models using ROC-AUC and F1 score.
 </br>
-• Implemented a risk prediction module with improvement suggestions based on selected health factors.
+- Implemented a risk prediction module with improvement suggestions based on selected health factors.
 </br>
-• Developed Tableau dashboards and stories for data visualization and embedded them into the Flask web application.
+- Developed Tableau dashboards and stories for data visualization and embedded them into the Flask web application.
 
 ### 🏠 Anazyling the Impact of Feature Scaling and PCA on House Price Prediction Model
 Jan 2026
 
-• Built an end-to-end house price prediction model using Linear Regression
+- Built an end-to-end house price prediction model using Linear Regression
 </br>
-• Performed data cleaning and exploratory data analysis
+- Performed data cleaning and exploratory data analysis
 </br>
-• Applied feature engineering and PCA to improve performance
+- Applied feature engineering and PCA to improve performance
 </br>
-• Evaluated model using RMSE and R2 score
+- Evaluated model using RMSE and R2 score
 
 ### 🕹️ 2D Battle Royale Arena Game with Rule-Based AI Agents
 Oct 2025 - Nov 2025
