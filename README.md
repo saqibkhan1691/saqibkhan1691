@@ -104,7 +104,7 @@
 
 # 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=saqibkhan1691&theme=algolia"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=saqibkhan1691&theme=algolia&column=7)
 
 ---
 
