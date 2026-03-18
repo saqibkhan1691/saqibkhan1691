@@ -123,7 +123,7 @@
 ### ❤️ Heart Disease Risk Analysis (ML Web Application)
 Feb 2026 - March 2026
 </br>
-🔗 Live Demo: https://heart-disease-risk-analysis-zn19.onrender.com
+🔗 Live Demo: https://heart-disease-risk-analysis.up.railway.app/
 
 • Built an end-to-end ML web app to predict heart disease risk using lifestyle and health dataset features.
 </br>
