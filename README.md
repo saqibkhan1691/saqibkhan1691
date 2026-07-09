@@ -121,7 +121,7 @@
 # 📌 Featured Projects
 
 ### ❤️ Heart Disease Risk Analysis (ML Web Application)
-Feb 2026 - March 2026
+Feb 2026 - March 2026 | TechStack: Python, SQL, Tableau, Scikit-learn, Flask, ML
 </br>
 🔗 Live Demo: https://heart-disease-risk-analysis.up.railway.app/
 
@@ -152,6 +152,17 @@ Oct 2025 - Nov 2025
 • Implemented collision detection and game-state management
 </br>
 • Designed agent behavior for autonomous decision-making
+
+### 🖥️ POS Inventory Management System (Currently Developing)
+Apr 2026 - Present | TechStack: Flutter, Dart, SQLite, Firebase
+
+• Designing and developing an offline-first POS inventory and billing system for fast retail shop operations using Flutter.
+</br>
+• Building responsive UI screens for billing, inventory management, product handling, payment workflows, and barcode-based sales.
+</br>
+• Using SQLite for fast local storage and Firebase for authentication, cloud backup, and recovery.
+</br>
+• Structured the project using modular architecture and background sync logic for scalable and reliable data management.
 
 ---
 
