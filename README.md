@@ -123,7 +123,7 @@
 ### ❤️ Heart Disease Risk Analysis (ML Web Application)
 Feb 2026 - March 2026 | TechStack: Python, SQL, Tableau, Scikit-learn, Flask, ML
 </br>
-🔗 Live Demo: https://heart-disease-risk-analysis.up.railway.app/
+🔗 Live Demo: https://heart-disease-risk-analysis-zn19.onrender.com/
 
 • Built an end-to-end ML web app to predict heart disease risk using lifestyle and health dataset features.
 </br>
