@@ -4,7 +4,7 @@
 
 <img align="left" src="https://giffiles.alphacoders.com/139/13940.gif" width="370" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&lines=Hi👋+I'm+Saqib+Khan;Future+Data+Scientist;Machine+Learning;Data+Analytics;Python+Developer" hspace=15 />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&lines=Hi👋+I'm+Saqib+Khan;Future+Data+Scientist;Machine+Learning;Data+Analytics;Gen+AI" hspace=15 />
 <br>
 
 <p>&nbsp;&nbsp; 🎓 B.Tech Computer Science Student</p> 
@@ -13,7 +13,7 @@
 <p>&nbsp;&nbsp; 🤖 Aspiring Data Scientist</p>
 
 
-<p>&nbsp;&nbsp; 💻 Python • Machine Learning • Data Science</p>
+<p>&nbsp;&nbsp; 💻 Python • Machine Learning • Data Science • GenAI • Agentic AI • Deep Learning</p>
 
 
 <p>&nbsp;&nbsp; 📚 Practicing DSA in Java</p>
@@ -28,9 +28,9 @@
 <tr>
 <td width="60%">
 
-- 🔭 Currently working on **Machine Learning Projects**
-- 🌱 Learning **Machine Learning, GenAI(NLP)**
-- 🧠 Exploring **Artificial Intelligence**
+- 🔭 Currently working on **Real World Projects**
+- 🌱 Building **AI & Machine Learning Skills**
+- 🧠 Exploring **AI, Machine Learning & Deep Learning**
 - 💡 Interested in solving real world problems with data
 - 📚 Practicing **DSA in Java**
 
