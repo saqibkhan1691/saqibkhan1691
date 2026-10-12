@@ -50,45 +50,152 @@
 
 <p>
 
-<!-- <img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://skillicons.dev/icons?i=pytorch"/> -->
+## 💻 Languages & Web Development
 
-**💻 Languages & Web Development**
+<table align="left">
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/>Python</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" alt="SQL"/><br/>SQL</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/>Java</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br/>C++</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/>JavaScript</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/><br/>HTML</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/><br/>CSS</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+<br clear="all"/>
 
-**📊 Data Analytics & Visualization**
+---
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+## 🗄️ Databases
 
-**🤖 Machine Learning & Deep Learning**
+<table align="left">
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/>MySQL</td>
+<td align="center" width="100"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM2SbVi8rjqoFMsZOz307iuaao2oUgchjIyTC8EIGhiw&s=10" width="48" alt="RDBMS"/><br/>RDBMS</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/>MongoDB</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+<br clear="all"/>
 
-**✨ Generative AI**
+---
 
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+## 📊 Data Analytics & Visualization
 
-**⚙️ Tools & Platforms**
+<table align="left">
+<tr>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/150458" width="42" alt="Pandas"/><br/>Pandas</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/013243" width="42" alt="NumPy"/><br/>NumPy</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="42" alt="Matplotlib"/><br/>Matplotlib</td>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3rmmjeSM665I73IeZSuwrAfuB7w47cyWN4q1QGwMwRw&s=10" width="42" alt="Seaborn"/><br/>Seaborn</td>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_sI0_qS18qU_R6U1og3FoaL69jaTw9dd8FaYaTR-jw&s=10" width="42" alt="EDA"/><br/>EDA</td>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Oy4YF06KwlZHdcB-TQ_FSloT2v5eYAhTbkO13BKxDw&s=10" width="42" alt="Power BI"/><br/>Power BI</td>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpj8SNuYkwMNvmHY6k70Q1uLGVQb21OvL_ZypzFpuRBQ&s=10" width="42" alt="Tableau"/><br/>Tableau</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github,linux" />
+<br clear="all"/>
+
+---
+
+## 📱 App Development
+
+<table align="left">
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/><br/>Flutter</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android Studio"/><br/>Android Studio</td>
+</tr>
+</table>
+
+<br clear="all"/>
+
+---
+
+## 🤖 Machine Learning
+
+<table align="left">
+<tr>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" alt="Scikit-learn"/><br/>Scikit-learn</td>
+</tr>
+</table>
+
+<br clear="all"/>
+
+**ML Techniques**
+
+<img src="https://img.shields.io/badge/Regression-2196F3?style=flat-square" alt="Regression"/> <img src="https://img.shields.io/badge/Classification-7E57C2?style=flat-square" alt="Classification"/> <img src="https://img.shields.io/badge/Clustering-009688?style=flat-square" alt="Clustering"/> <img src="https://img.shields.io/badge/Feature_Engineering-FF9800?style=flat-square" alt="Feature Engineering"/>
+
+---
+
+## 🧠 Deep Learning
+
+<table align="left">
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"/><br/>TensorFlow</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/keras/D00000" width="48" alt="Keras"/><br/>Keras</td>
+<!-- <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"/><br/>PyTorch</td> -->
+</tr>
+</table>
+
+<br clear="all"/>
+
+**DL Architectures**
+
+<img src="https://img.shields.io/badge/ANN-Neural_Networks-607D8B?style=flat-square" alt="ANN"/> <img src="https://img.shields.io/badge/CNN-Computer_Vision-2196F3?style=flat-square" alt="CNN"/> <img src="https://img.shields.io/badge/RNN-Recurrent_Networks-8E24AA?style=flat-square" alt="RNN"/> <img src="https://img.shields.io/badge/LSTM-Sequence_Models-00897B?style=flat-square" alt="LSTM"/>
+
+---
+
+## 💬 Natural Language Processing (NLP)
+
+<table align="left">
+<tr>
+<td align="center" width="110"><img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge" height="40" alt="NLTK"/><br/>NLTK</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/TRANSFORMER-4682B4?style=for-the-badge" height="40" alt="Transformers"/><br/>Transformers</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/TXT-4682B4?style=for-the-badge" height="40" alt="Text Preprocessing"/><br/>Text Preprocessing</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/NLP-EC407A?style=for-the-badge" height="40" alt="Sentiment Analysis"/><br/>Sentiment Analysis</td>
+</tr>
+</table>
+
+<br clear="all"/>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<table align="left">
+<tr>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqYXJwcmCB-BYgJkRdk7y_XU1tz5eOFcJr_-Rr8ibgA&s=10" width="48" alt="Jupyter Notebook"/><br/>Jupyter Notebook</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/>GitHub</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/>Git</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/>VS Code</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=flask" width="48" alt="Flask"/><br/>Flask</td>
+</tr>
+</table>
+
+<br clear="all"/>
+
+---
+
+## ✨ AI Tools
+
+<table align="left">
+<tr>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="42" alt="Claude AI"/><br/>Claude AI</td>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zQ5R07x0MtQA3sPexXLi_7MfF7BJYtDRlJERAOlKhg&s=10" width="42" alt="ChatGPT"/><br/>ChatGPT</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42" alt="Google Gemini"/><br/>Google Gemini</td>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2n-eiWVvc761ZJUWTdgfvRyqs0uYTxKCf8xUKmPCiHw&s=10" height="40" alt="DeepSeek"/><br/>DeepSeek</td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" alt="Hugging Face"/><br/>Hugging Face</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" alt="Figma"/><br/>Figma</td>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK43xSGcJAlEwFcyueEEQCtAu_OLBEYJlNZeff1PNi5A&s=10" width="42" alt="Canva AI"/><br/>Canva AI</td>
+<td align="center" width="110"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXxS85hTpLbg6Ak318L-njrLdmfgUN3pySLb2-M4l_Gw&s=10" height="40" alt="Gamma AI"/><br/>Gamma AI</td>
+</tr>
+</table>
+
+<br clear="all"/>
 
 
 </p>
